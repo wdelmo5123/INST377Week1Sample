@@ -1,0 +1,13 @@
+#top {
+    text-align: center;
+    background-color: beige;
+    border: solid;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
